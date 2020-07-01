@@ -1,0 +1,145 @@
+body{
+    font-family: 'Roboto', sans-serif;
+    margin: 0;
+}
+
+section{
+    height: 500px;
+    padding-bottom: 50px;
+}
+.top-banner{
+    background-image: url("images/header-bg.png");
+    background-repeat: no-repeat;
+    background-position: center center;
+}
+.upper-space{
+    margin-top: 170px;
+}
+.half-width{
+    width: 40%;
+    margin-left: 5%;
+    padding-left: 2%;
+    float: left;
+}
+
+.half-width img{
+    width: 100%;
+}
+.half-width p{
+    margin-bottom: 30px;
+    color: dimgray;
+    font-size: 18px;
+}
+.pink-name{
+    color: #FF257B;
+    font-weight: bold;
+    font-size: 35px;
+}
+.button_link{
+    text-decoration: none;
+    color: white;
+    font-size: 16px;
+    font-weight: bold;
+    padding: 10px 20px;
+    border-radius: 5px;
+    background-color: #FF257B;
+}
+.button_link:hover{
+    background-color: white;
+    border-radius: 8px;
+    border: 2px solid #FF257B;
+    color: #FF257B;
+}
+.biography-banner{
+    background-image: url("images/biography-bg.png");
+    background-repeat: no-repeat;
+    background-position: center center;
+}
+.latest-banner{
+    background-image: url("images/latest-work-bg.png");
+    background-repeat: no-repeat;
+    background-position: center center;
+}
+.latest-banner h1{
+    margin-top: 70px;
+    margin-bottom: 70px;
+    text-align: center;
+}
+.first{
+    width: 25%;
+    float: left;
+    padding-left: 2%;
+    margin-left: 4%;
+}
+.first img{
+    width: 100%;
+}
+
+.footer-banner{
+    background-image: url("images/footer-bg.png");
+    background-repeat: no-repeat;
+    background-position: center center;
+    text-align: center;
+}
+.custom_button_fix{
+    text-decoration: none;
+    color: white;
+    
+  
+}
+.custom_button{
+    background-color: #fe7bb0;
+    background-image: linear-gradient(315deg, #fe7bb0 0%, #ff748b 74%);
+    padding-top: 20px;
+    padding-bottom: 20px;
+    width: 50%;
+    margin: auto;
+    border-radius: 8px;
+}
+.leave{
+    font-size: 12px;
+    font-family: 'Roboto', sans-serif;
+
+}
+.hero{
+    font-size: 20px;
+    font-weight: 700;
+    font-family: 'Roboto', sans-serif;
+
+}
+.founder{
+    font-size: 14px;
+    color: dimgray;
+    font-weight: bold;
+    margin-bottom: 30px;
+}
+.bruice{
+    font-size: 16px;
+    font-weight: bold;
+}
+.saying{
+    color: dimgray;
+    margin-bottom: 50px;
+}
+.footer-banner h1{
+    margin-bottom: 50px;
+}
+.footer-banner h6{
+    font-size: 18px;
+}
+
+.me{
+    margin-top: 80px;
+    font-size: 16px;
+    color: dimgray;
+}
+.common{
+    margin-left: 10px;
+}
+
+.copyright{
+    margin-top: 20px;
+    margin-bottom: 20px;
+    font-size: 12px;
+    color: dimgray;
+}
